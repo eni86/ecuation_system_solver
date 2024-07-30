@@ -11,5 +11,5 @@
 <ul>
   <li>This works for any number of unknowns in the ecuation system. </li>
   <li>You have to enter the coefficients always in the same unknowns order. </li>
-  <li>In case there is a coefficient not defined, put the value 0: for example if you have 3 unknowns and x+z=2, since the coefficient of y is 0, the input is 1, 0, 1, 2 </li> 
+  <li>In case there is a coefficient not defined, put the value 0: for example if you have 3 unknowns and one of the ecuations is x+z=2, since the coefficient of y is 0, the input is 1, 0, 1, 2 </li> 
 </ul>
